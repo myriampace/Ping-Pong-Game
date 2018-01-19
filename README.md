@@ -1,1 +1,1 @@
-# Ping-Pong-Game
+# ping-pong-game
